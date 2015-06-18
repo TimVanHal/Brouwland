@@ -130,6 +130,21 @@
                     <span id="editBtn4">
                         <button type="button" onclick="swap('endBeoordeling', 'currentEndBo', 'editBtn4')"><span class="glyphicon glyphicon-edit"></span></button>
                     </span>
+                <br><label>Deadline remporter biere:</label>
+                    <span id="currentIndien">
+                        <?php
+                            $query = "SELECT datum FROM deadlines WHERE voor='indienen bier'";
+                            $result = mysql_query($query) or die ('Error updating' . mysql_error());
+                            $data = mysql_fetch_assoc($result);
+                            echo $data['datum'];
+                        ?>
+                    </span>
+                    <div class="input-group col-xs-2" id="indien" style="display:none">
+                        <input type="date" class="form-control" placeholder="YYYY-MM-DD" id="indienen" name="indienen">
+                    </div>
+                    <span id="editBtn5">
+                        <button type="button" onclick="swap('indien', 'currentIndien', 'editBtn5')"><span class="glyphicon glyphicon-edit"></span></button>
+                    </span>
                 </div>
             </div>
             <div id="dienIn">
