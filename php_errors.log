@@ -1,0 +1,390 @@
+[15-May-2015 13:21:48 UTC] PHP Warning:  include(db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:21:48 UTC] PHP Stack trace:
+[15-May-2015 13:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:21:48 UTC] PHP Warning:  include(): Failed opening 'db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:21:48 UTC] PHP Stack trace:
+[15-May-2015 13:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:21:48 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:21:48 UTC] PHP Stack trace:
+[15-May-2015 13:21:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:21:48 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:22:45 UTC] PHP Warning:  include(..db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:22:45 UTC] PHP Stack trace:
+[15-May-2015 13:22:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:22:45 UTC] PHP Warning:  include(): Failed opening '..db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:22:45 UTC] PHP Stack trace:
+[15-May-2015 13:22:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:22:45 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:22:45 UTC] PHP Stack trace:
+[15-May-2015 13:22:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:22:45 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1384 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1383 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:23:54 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:23:54 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1382 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1385 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:24:55 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:24:55 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:24:55 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1652 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:25:57 UTC] PHP Warning:  include(html/php/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP Warning:  include(): Failed opening 'html/php/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:25:57 UTC] PHP Warning:  include(../db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP Warning:  include(): Failed opening '../db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:25:57 UTC] PHP Stack trace:
+[15-May-2015 13:25:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:25:57 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1651 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:25:57 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:25:57 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:25:57 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:49 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:49 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1650 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:49 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:49 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:49 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:49 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:49 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:27:49 UTC] PHP Warning:  include(/html/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:49 UTC] PHP Stack trace:
+[15-May-2015 13:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:49 UTC] PHP Warning:  include(): Failed opening '/html/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:49 UTC] PHP Stack trace:
+[15-May-2015 13:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:49 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:27:49 UTC] PHP Stack trace:
+[15-May-2015 13:27:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:49 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:27:56 UTC] PHP Warning:  include(/html/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:56 UTC] PHP Stack trace:
+[15-May-2015 13:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:56 UTC] PHP Warning:  include(): Failed opening '/html/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:56 UTC] PHP Stack trace:
+[15-May-2015 13:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:56 UTC] PHP Warning:  mysql_select_db(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 23
+[15-May-2015 13:27:56 UTC] PHP Stack trace:
+[15-May-2015 13:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:56 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/html/nl/inschrijving1.php:23
+[15-May-2015 13:27:56 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 23
+[15-May-2015 13:27:56 UTC] PHP Stack trace:
+[15-May-2015 13:27:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:56 UTC] PHP   2. mysql_select_db() /home/ubuntu/workspace/html/nl/inschrijving1.php:23
+[15-May-2015 15:27:59 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:59 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:59 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:59 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:27:59 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1654 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:59 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:59 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:59 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 15:27:59 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 15:27:59 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:27:59 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:27:59 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(/html/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(): Failed opening '/html/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(/html/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(): Failed opening '/html/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP Warning:  mysql_connect(): No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 21
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:21
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(/html/db_config.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 13:27:59 UTC] PHP Warning:  include(): Failed opening '/html/db_config.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 18
+[15-May-2015 13:27:59 UTC] PHP Stack trace:
+[15-May-2015 13:27:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:11 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:11 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:11 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:11 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:33:11 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1383 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:11 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:11 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:11 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:33:11 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:11 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:11 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:11 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:24 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:24 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1652 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:24 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:24 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:33:24 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:33:24 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:33:24 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:34:25 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:34:25 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1386 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:34:25 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:34:25 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:34:25 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:34:25 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:34:25 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:35:26 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:35:26 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1385 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:35:26 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:35:26 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:35:26 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:35:26 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:35:26 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:36:28 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:36:28 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1816 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:36:28 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:36:28 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:36:28 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:36:28 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:36:28 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:37:29 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:37:29 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1654 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:37:29 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:37:29 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:37:29 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:37:29 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:37:29 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:38:31 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:38:31 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1812 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:38:31 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:38:31 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:38:31 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:38:31 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:38:31 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:39:32 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:39:32 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1650 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:39:32 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:39:32 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:39:32 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:39:32 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:39:32 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:40:33 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:40:33 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1651 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:40:33 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:40:33 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:40:33 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:40:33 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:40:33 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:34 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:34 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1642 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:34 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:34 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:34 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:34 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:34 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1830 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:41:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:41:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:41:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:36 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:36 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1383 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:36 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:36 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:36 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:36 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:36 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:39 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:39 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1823 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:39 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:39 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:42:39 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:42:39 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:42:39 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:37 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:37 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1811 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:37 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:37 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:37 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:37 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:37 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:40 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:40 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1814 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:40 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:40 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:43:40 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:43:40 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:43:40 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1651 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:38 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:38 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:38 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:41 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:41 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Warning:  mysql_connect(): Error while reading greeting packet. PID=1812 in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:41 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:41 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Warning:  mysql_connect(): MySQL server has gone away in /home/ubuntu/workspace/html/nl/inschrijving1.php on line 20
+[15-May-2015 15:44:41 Europe/Brussels] PHP Stack trace:
+[15-May-2015 15:44:41 Europe/Brussels] PHP   1. {main}() /home/ubuntu/workspace/html/nl/inschrijving1.php:0
+[15-May-2015 15:44:41 Europe/Brussels] PHP   2. mysql_connect() /home/ubuntu/workspace/html/nl/inschrijving1.php:20

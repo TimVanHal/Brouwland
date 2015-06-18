@@ -1,0 +1,353 @@
+@charset "utf-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+#main {
+    overflow: hidden;
+    font: 12px/19px Verdana, Geneva, sans-serif !important;
+}
+
+#main .topspace {
+    padding-top: 35px;
+}
+
+.fb-like-box, .fb-like-box span, .fb-like-box span iframe[style] {
+    width: 100% !important;
+    margin-bottom: 10px;
+}
+
+.btn-facebook {
+    color: #244ca0;
+}
+
+.btn-youtube {
+    color: #cc181e;
+}
+
+.btn-twitter {
+    color: #00abf0;
+}
+
+.btn-facebook:hover, .btn-youtube:hover, .btn-twitter:hover {
+    color: #ff5a00 !important;
+    text-decoration: none;
+}
+
+/* topbox ------------------------------------------------------------------------------------------- */
+
+#topbox {
+    float: right;
+    margin: 7px 15px 0 0;
+    display: inline-block;
+    zoom: 1; /* zoom and *display = ie7 hack for display:inline-block */
+    *display: inline;
+    vertical-align: baseline;
+    right: 0;
+    height: 30px;
+}
+
+#topbox .item {
+    padding-right: 1px;
+    float: left;
+}
+
+#topbox a {
+    color: #198901 !important;
+    text-decoration: none !important;
+    font-size: 18px;
+}
+
+#topbox a:hover, #topbox a.language:hover, #footer a.language:hover {
+    color: #ff5a00 !important;
+}
+
+#topbox a.language, #footer a.language {
+    font: 16px/39px verdana;
+    color: #198901 !important;
+    text-decoration: none;
+    text-align: center;
+    background: #fff;
+    border-radius: 50%;
+    width: 42px;
+    height: 42px;
+    display: block;
+    margin: 2px 0 0 4px;
+}
+
+/* content ------------------------------------------------------------------------------------------- */
+
+#main p {
+    margin: 10px 0 20px 0;
+    color: #41200c;
+}
+
+#main figcaption {
+    text-align: center;
+    font-weight: bold;
+    color: #41200c;
+    margin: 20px 0 50px 0;
+}
+
+#main img.img-default {
+    width: 100%;
+    padding: 0;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+
+#main img.img-noborder {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -khtml-border-radius: 0;
+    border-radius: 0;
+}
+
+#main img.img-floatleft {
+    float: left;
+    margin: 0 15px 10px 0;
+}
+
+#main img.img-pinterest {
+    max-width: 255px !important;
+}
+
+#main div.verdeler {
+    margin: 0 35px 5px 0;
+}
+
+#main img.img-floatright {
+    float: right;
+    margin: 0 0 10px 15px;
+}
+
+#main img.img-facebook {
+    float: left;
+    margin: 4px 0 0 8px;
+}
+
+#main img.img-facebook:hover {
+    cursor: pointer;
+}
+
+#main .fb_txt {
+    float: left;
+    color: #fff;
+    font-size: 14px;
+}
+
+#main a:link, #main a:visited {
+    color: #ff6c00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#main a:hover {
+    color: #198901;
+    text-decoration: none;
+}
+
+#main .logo, #main .logo-fr {
+    margin: 0;
+    float: left;
+    display: block;
+    /* hide text */
+    text-indent: 9999px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+#main h1 {
+    color: #ff6c00;
+    padding: 0 0 0 5px !important;
+    margin: 0 !important;
+    font: 50px 'snicklesregular', sans-serif;
+}
+
+#main h1.brown {
+    color: #5e3b27;
+    padding: 0 !important;
+    margin: 0 !important;
+    font: 27px 'bowlby_oneregular', sans-serif;
+    text-transform: uppercase;
+}
+
+#main h2 {
+    padding: 0;
+    margin: 2px 0;
+    color: #5e3b27;
+    font: 17px/24px 'bowlby_oneregular', sans-serif;
+    text-transform: uppercase;
+}
+
+#main h3 {
+    padding: 0 0 0 5px !important;
+    margin: 2px 0;
+    color: #ff6c00;
+    font: 26px 'snicklesregular', sans-serif;
+    letter-spacing: 1px;
+}
+
+#main h3.dealers {
+    padding: 0 !important;
+    margin: 0;
+    color: #5e3b27;
+    font: 22px 'snicklesregular', sans-serif;
+    letter-spacing: 1px;
+}
+
+#main .subtitle {
+    font-size: 29px;
+}
+
+#main .minimum {
+    padding-top: 4px;
+    overflow: hidden;
+}
+
+ul, ul.compact {
+    margin: 12px 10px 15px 0;
+}
+
+ul.wide li {
+    margin: 12px 0 !important;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px dotted #dbc59f;
+    margin: 3px 0;
+    padding: 0;
+}
+
+#navigatie {
+    clear: both;
+    width: 98%;
+    z-index: 500 !important;
+}
+
+.bottles {
+    float: left;
+    text-align: center;
+}
+
+#main .back {
+    float: right;
+    padding: 0;
+    margin: 0;
+}
+
+#main a.backlink:link, #main a.backlink:visited {
+    text-decoration: none;
+    font-size: 24px;
+    display: block;
+}
+
+#main a.backlink:hover {
+    color: #333;
+    text-decoration: none;
+}
+
+#itemContainer ul {
+    width: 100%;
+    margin: 0;
+}
+
+#itemContainer li.item-hot {
+    float: left;
+    width: 45%;
+    vertical-align: middle;
+    height: 90px;
+    overflow: hidden;
+    margin: 0 40px 0 0 !important;
+    word-wrap: break-word;
+}
+
+#main div.thumb {
+    float: left;
+    margin: 6px 14px 0 0;
+    overflow: hidden;
+    width: 95px;
+    height: 63px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+}
+
+#main div.thumb img {
+    width: 95px;
+}
+
+#main .holder {
+    margin: 15px 0;
+}
+
+#main .holder a {
+    background: #eee;
+    font-size: 14px;
+    cursor: pointer;
+    margin: 0 5px 0 0;
+    color: #999;
+    border: #ccc solid 1px;
+    display: block;
+    width: 20px;
+    height: 20px;
+    float: left;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none !important;
+}
+
+#main .holder a:hover {
+    color: #fff;
+    background: #00a261 !important;
+    border: #00a261 solid 1px;
+}
+
+#main .holder a.jp-previous {
+    margin-right: 5px;
+}
+
+#main .holder a.jp-next {
+    margin-left: 0;
+}
+
+#main .holder a.jp-current, a.jp-current:hover {
+    color: #666;
+    background: #fff !important;
+    font-weight: bold;
+    cursor: default !important;
+    border: #ccc solid 1px;
+}
+
+#main .holder a.jp-current, a.jp-current:hover {
+    cursor: pointer;
+    background: none;
+}
+
+#main .holder a.jp-disabled, a.jp-disabled:hover {
+    cursor: default !important;
+    background: none;
+    color: #000 !important;
+}
+
+#main .holder span {
+    margin: 0 5px;
+}
+
+
+
+
+
+
+
+
+
+
